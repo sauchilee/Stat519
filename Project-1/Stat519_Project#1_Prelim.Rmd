@@ -14,7 +14,7 @@ fig_width: 6
 ---
 
 
-## Describe and Input your data set (in .csv format) here. For example:
+## Describe your observations (units) and variables of your Data. Input your data set (in .csv format) here. For example:
 
 ```{r}
 your_data=read.csv(file="https://raw.githubusercontent.com/sauchilee/Stat519/master/Data/iris.csv",
@@ -28,7 +28,7 @@ tail(your_data)
 
 ## The data set of your project should have well defined experimental units (observations) with at least 10 quantitative (i.e., numerical) variables, plus at least 4 categorical variables. One of the categorical variable should have at least 3 levels/groups with at least 30 observations for each level/group.
 
-## State clearly your research objectives and questions clearly
+## State clearly your research objectives and questions clearly.
 
 ## Perform EDA (Exploratory Data Analysis) by computing summary statistics and presenting visulizations in: 
   + Enhanced scatterplots, Convex hull, Chi-plot, Bivariate boxplot, Bivariate density estimator, Bubble plot, Scatterplot matrix, 3-D scatterplot, Star plot, Chernoff faces, and
