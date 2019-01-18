@@ -1,6 +1,6 @@
 
 ---
-title: 'Stat 519 Project#1 Preliminary Report'
+title: 'Stat 519 Project#1 Preliminary Report due 1/28 Monday in class'
 author: "Your full Name here + your Github address (e.g. Stephen Lee + https://github.com/sauchilee/Stat519) "
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output:
