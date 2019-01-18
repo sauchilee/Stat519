@@ -1,7 +1,7 @@
 
 ---
 title: 'Stat 519 Project#1 Preliminary Report'
-author: "Your full Name here + your Github address"
+author: "Your full Name here + your Github address (e.g. Stephen Lee + https://github.com/sauchilee/Stat519) "
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output:
   pdf_document: default
